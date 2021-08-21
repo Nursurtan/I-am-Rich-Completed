@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "I'm Super Rich.LaunchScreen.png",
+      "filename" : "X - 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "I'm Super Rich.LaunchScreen@2x.png",
+      "filename" : "X - 1@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "I'm Super Rich.LaunchScreen@3x.png",
+      "filename" : "X - 1@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
